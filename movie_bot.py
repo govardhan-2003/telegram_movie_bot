@@ -58,7 +58,7 @@ async def Sending_File(movie_list, event):
 
 
 
-@client.on(events.NewMessage(("Anu Sis")))
+@client.on(events.NewMessage(("мσνιє ℓσνєяѕ 🎬")))
 async def my_event_handler(event):
     if '@movie_finder' in event.raw_text:
         print("got search request")
